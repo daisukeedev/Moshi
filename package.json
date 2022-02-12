@@ -1,0 +1,11 @@
+{
+  "name": "moshi",
+  "version": "1.0.0",
+  "description": "A simple bot to count, with various game modes",
+  "main": "./src/index.js",
+  "author": "Daisuke",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}

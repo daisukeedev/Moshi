@@ -1,0 +1,9 @@
+{
+    "token":"token-of-this-application",
+    "channelId":"channel-id-go-play",
+    "gameMode": "normal",
+    "emoji": {
+        "correct": "✅",
+        "incorrect": "❎"
+    }
+}
